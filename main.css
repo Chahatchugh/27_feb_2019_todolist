@@ -1,0 +1,7 @@
+table,th,td {
+    width: 320px;
+    align-self: center;
+    margin-left: 480px;
+    cursor: pointer;
+
+}
